@@ -1,1 +1,1 @@
-# pandas-challenge
+This is my submission for Module 4 Challenge, titled pandas-challenge. It contains a folder called PyCitySchools, which contains a script for my Jupyter file with all of my completed code. I did not recieve help with this assignment from any source other than the XPert provided on BootCampSpot, which helped me identify errors.
